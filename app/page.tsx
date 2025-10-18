@@ -587,7 +587,7 @@ export default function Page() {
                     No surebets detected right now
                   </div>
                   <div className="text-sm text-gray-500">
-                    We'll keep watching for opportunities
+                    What&#39;s Arbitrage?
                   </div>
                 </div>
               ) : (
@@ -770,7 +770,7 @@ export default function Page() {
             <div className="grid md:grid-cols-3 gap-6">
               <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-200">
                 <div className="text-3xl mb-4">🎯</div>
-                <div className="font-semibold mb-2">What's Arbitrage?</div>
+                <div className="font-semibold mb-2">We don&#39;t place bets.</div>
                 <div className="text-sm text-gray-600">
                   Place bets on opposite outcomes at different sportsbooks where
                   the combined odds guarantee profit regardless of the result.
@@ -788,7 +788,7 @@ export default function Page() {
                 <div className="text-3xl mb-4">⚠️</div>
                 <div className="font-semibold mb-2">Important Notes</div>
                 <div className="text-sm text-gray-600">
-                  This is informational only. We don't place bets. Always verify
+                  This is informational only. We do not place bets. Always verify
                   odds, consider fees, and check betting limits before wagering.
                 </div>
               </div>
